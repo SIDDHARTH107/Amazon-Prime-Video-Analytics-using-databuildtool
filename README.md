@@ -8,3 +8,6 @@
 
 **DBT Overview**
 ![image](https://github.com/user-attachments/assets/c469cdc4-7753-4dc3-9cb4-9339f8303bbd)
+
+**Generic Data Engineering Lifecycle**
+![image](https://github.com/user-attachments/assets/c724779d-ee51-4280-b013-c27c900260f2)
