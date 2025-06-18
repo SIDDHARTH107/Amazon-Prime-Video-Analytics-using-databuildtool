@@ -11,3 +11,6 @@
 
 **Generic Data Engineering Lifecycle**
 ![image](https://github.com/user-attachments/assets/c724779d-ee51-4280-b013-c27c900260f2)
+
+**DBT works with data warehouse**
+![image](https://github.com/user-attachments/assets/901f1247-dc7d-4d9c-b0c1-ff2032f9cf46)
