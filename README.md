@@ -1,7 +1,7 @@
 # Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
 
 **Project Architecture**
-![image](https://github.com/user-attachments/assets/c6d26a6e-c217-46c8-90a5-2839657e1d5d)
+![image](https://github.com/user-attachments/assets/e2539855-aba4-4450-8b93-7d34110a5a6f)
 
 **Flowchart of dbt**
 ![image](https://github.com/user-attachments/assets/7e493142-f768-434e-8e41-705e69224a8d)
