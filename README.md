@@ -14,3 +14,6 @@
 
 **DBT works with data warehouse**
 ![image](https://github.com/user-attachments/assets/901f1247-dc7d-4d9c-b0c1-ff2032f9cf46)
+
+**Data Warehouse VS Data Lake**
+![image](https://github.com/user-attachments/assets/86478bb7-7a41-4663-9eb9-e18246ba2da9)
