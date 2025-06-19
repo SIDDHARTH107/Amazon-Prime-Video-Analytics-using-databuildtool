@@ -17,3 +17,6 @@
 
 **Data Warehouse VS Data Lake**
 ![image](https://github.com/user-attachments/assets/86478bb7-7a41-4663-9eb9-e18246ba2da9)
+
+**ETL VS ELT**
+![image](https://github.com/user-attachments/assets/d94199a4-09d5-4601-886a-944c7be2f2a4)
