@@ -44,5 +44,12 @@ Then, I created my __Snowflake__ account to connect it with S3 bucket internally
 ![image](https://github.com/user-attachments/assets/dea9d0ea-95be-47db-9104-ff245a27045b)
 ![image](https://github.com/user-attachments/assets/1ce496e1-46c8-4849-96a4-4174c54e90bd)
 
+```Step 3```
+![image](https://github.com/user-attachments/assets/fd70093c-cb7a-44d4-8e53-a62116a10f3f)
+![image](https://github.com/user-attachments/assets/67054fa8-d6d3-4735-8256-21e262e8ac6b)
+![image](https://github.com/user-attachments/assets/ac9fd815-f5a1-4b28-b1e2-ca696c3ffdc3)
+![image](https://github.com/user-attachments/assets/73759521-4151-43e9-afb6-f4ed560a3f4b)
+
+
 
 
