@@ -33,3 +33,9 @@ https://grouplens.org/datasets/movielens/20m/
 
 ``Dataset readme file``
 https://files.grouplens.org/datasets/movielens/ml-20m-README.html
+
+## Project workflow
+```Step 1```
+After downloading all the datasets from the above link, I have extracted all the csv files from the zip folder. Then I uploaded it in the __Amazon S3 Bucket__ as shown in the image below.
+![image](https://github.com/user-attachments/assets/87ceef94-4563-4e6d-a731-08f04dcb649b)
+
