@@ -39,3 +39,8 @@ https://files.grouplens.org/datasets/movielens/ml-20m-README.html
 After downloading all the datasets from the above link, I have extracted all the csv files from the zip folder. Then I uploaded it in the __Amazon S3 Bucket__ as shown in the image below.
 ![image](https://github.com/user-attachments/assets/87ceef94-4563-4e6d-a731-08f04dcb649b)
 
+```Step 2```
+Then, I created my __Snowflake__ account to connect it with S3 bucket internally.
+![image](https://github.com/user-attachments/assets/dea9d0ea-95be-47db-9104-ff245a27045b)
+
+
