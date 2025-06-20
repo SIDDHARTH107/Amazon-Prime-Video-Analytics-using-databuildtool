@@ -58,6 +58,10 @@ In order to create a connection, I created a IAM user to specify the access key 
 
 ![image](https://github.com/user-attachments/assets/73759521-4151-43e9-afb6-f4ed560a3f4b)
 
+```Step 4```
+Afer this, I used COPY INTO commands in Snowflake to copy all the csv files from S3 bucket to Snowflake Data Warehouse.
+
+![image](https://github.com/user-attachments/assets/3533b8ac-8433-4cda-9e04-ddf45b2f894d)
 
 
 
