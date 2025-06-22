@@ -79,6 +79,8 @@ Open a folder for your project followed by opening command prompt and typing the
 
 Commands for windows in VS Code:
 
+This will give us direct flexibility for DBT to connect to the Snowflake. It will install the core DBT, the connector to Snowflake / Snowflake adapter and the required dependencies also.
+
 ```sql
 python -m venv venv
 .\venv\Scripts\Activate
