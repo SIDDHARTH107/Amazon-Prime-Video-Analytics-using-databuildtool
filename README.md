@@ -82,3 +82,4 @@ Commands for windows in VS Code:
 ```sql
 python -m venv venv
 .\venv\Scripts\Activate
+pip install dbt-snowflake==1.9.0
