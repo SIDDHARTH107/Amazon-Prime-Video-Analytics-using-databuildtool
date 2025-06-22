@@ -63,5 +63,6 @@ Afer this, I used COPY INTO commands in Snowflake to copy all the csv files from
 
 ![image](https://github.com/user-attachments/assets/3533b8ac-8433-4cda-9e04-ddf45b2f894d)
 
-
+```Step 5```
+Setting up the dbt configuration.
 
