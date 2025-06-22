@@ -70,4 +70,5 @@ Setting up the dbt configuration.
 There are two main ways to use DBT:
 
 __DBT Cloud:__ A web-based service that provides a development environment, job scheduler, and documentation hosting
+
 __DBT Core:__ The open-source command-line version that you can run locally or on your servers (This is used in my project because it is free and open source & there's not much difference between the two)
