@@ -72,3 +72,13 @@ There are two main ways to use DBT:
 __DBT Cloud:__ A web-based service that provides a development environment, job scheduler, and documentation hosting
 
 __DBT Core:__ The open-source command-line version that you can run locally or on your servers (This is used in my project because it is free and open source & there's not much difference between the two)
+
+Open a folder for your project followed by opening command prompt and typing these commands:
+
+![image](https://github.com/user-attachments/assets/83717eb1-b4c0-401e-b89b-a98309934118)
+
+Commands for windows in VS Code:
+
+```sql
+python -m venv venv
+.\venv\Scripts\Activate
