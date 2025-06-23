@@ -82,6 +82,16 @@ Commands for windows in VS Code:
 This will give us direct flexibility for DBT to connect to the Snowflake. It will install the core DBT, the connector to Snowflake / Snowflake adapter and the required dependencies also.
 
 ```sql
+
+-- Windows
 python -m venv venv
-.\venv\Scripts\Activate
-pip install dbt-snowflake==1.9.0
+.\venv\Scripts\activate
+pip install dbt-snowflake
+
+py -3.11 -m venv dbt_env_311
+.\dbt_env_311\Scripts\Activate.ps1
+
+-- MAC
+virtualenv venv
+. venv/bin/activate
+pip install dbt-snowflake
