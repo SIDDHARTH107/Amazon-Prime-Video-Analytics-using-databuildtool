@@ -89,7 +89,7 @@ python -m venv venv
 pip install dbt-snowflake
 
 py -3.11 -m venv dbt_env_311
-.\dbt_env_311\Scripts\Activate.ps1
+.\dbt_env_311\Scripts\Activate
 
 -- MAC
 virtualenv venv
