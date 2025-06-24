@@ -88,7 +88,7 @@ Commands for windows in VS Code:
 
 This will give us direct flexibility for DBT to connect to the Snowflake. It will install the core DBT, the connector to Snowflake / Snowflake adapter and the required dependencies also.
 
-```sql
+```bash
 
 -- Windows
 python -m venv venv
@@ -108,6 +108,7 @@ mkdir %userprofile%\.dbt
 
 -- Setting up or initiating new dbt project in windows
 dbt init my_project
+```
 
 ```Step 6```
 Have created my DBT models in order to write SQL Queries.
