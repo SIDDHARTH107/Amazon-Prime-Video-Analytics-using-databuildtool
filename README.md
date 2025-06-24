@@ -108,3 +108,6 @@ mkdir %userprofile%\.dbt
 
 -- Setting up or initiating new dbt project in windows
 dbt init my_project
+
+```Step 6```
+Have created my DBT models in order to write SQL Queries.
