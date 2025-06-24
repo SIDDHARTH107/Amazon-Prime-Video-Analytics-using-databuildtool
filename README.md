@@ -95,3 +95,9 @@ py -3.11 -m venv dbt_env_311
 virtualenv venv
 . venv/bin/activate
 pip install dbt-snowflake
+
+-- Creating dbt directory in windows
+mkdir %userprofile%\.dbt
+
+-- Setting up or initiating new dbt project in windows
+dbt init my_project
