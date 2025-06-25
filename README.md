@@ -1,4 +1,4 @@
-# Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
+2# Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
 
 **Project Architecture**
 ![image](https://github.com/user-attachments/assets/e2539855-aba4-4450-8b93-7d34110a5a6f)
@@ -111,4 +111,9 @@ dbt init my_project
 ```
 
 ```Step 6```
-Have created my DBT models in order to write SQL Queries.
+Have created my DBT models in order to write SQL Queries. Then, after running the dbt using 'dbt run' command, a view is created in Snowflake warehouse. A dbt model (A simple SQL Script) is also created in our porject folder in VS Code. For mode info. about dbt models, go to https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/4.+DBT+Models
+
+In order to create all the staging for all the tables in snowflake, I worte dbt models or SQL scripts for all the tables. 
+
+![image](https://github.com/user-attachments/assets/327431ff-fd20-4706-8137-2534be94d0ff)
+
