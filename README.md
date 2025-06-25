@@ -111,7 +111,7 @@ dbt init my_project
 ```
 
 ```Step 6```
-Have created my DBT models in order to write SQL Queries. Then, after running the dbt using 'dbt run' command, a view is created in Snowflake warehouse. A dbt model (A simple SQL Script) is also created in our porject folder in VS Code. For mode info. about dbt models, go to https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/4.+DBT+Models
+Have created my DBT models in order to write SQL Queries. Then, after running the dbt using 'dbt run' command, a view is created in Snowflake warehouse. A dbt model (A simple SQL Script) is also created in our project folder in VS Code. For mode info. about dbt models, go to https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/4.+DBT+Models
 
 In order to create all the staging for all the tables in snowflake, I worte dbt models or SQL scripts for all the tables. 
 
