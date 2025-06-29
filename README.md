@@ -1,5 +1,8 @@
 # Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
 
+**Problem**
+Imagine we're helping a giant online video store, like Amazon Prime Video, organize all their super movies and TV shows. When people watch, rate, or tag these shows, it creates huge amount of messy information. This project is done to make all that messy data super neat, useful, ready to use so Analysts/Scientists at Amazon can make smart decisions, like deciding which new shows to buy or what to recommend to the audience! This whole project is like building a magical data sorting and cleaning machine just for Amazon Prime Video. I have used a special tool called DBT (Data Build Tool) to do this.
+
 **Project Architecture**
 ![image](https://github.com/user-attachments/assets/e2539855-aba4-4450-8b93-7d34110a5a6f)
 
