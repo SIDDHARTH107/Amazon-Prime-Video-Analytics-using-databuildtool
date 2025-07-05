@@ -124,7 +124,9 @@ In order to create all the staging for all the tables in snowflake, I worte dbt 
 
 ![image](https://github.com/user-attachments/assets/b34bde9a-ba25-4fcc-97de-e8d24a6b6f51)
 
+In short what I did till here is that I have dbt models (SQL Scripts that is written to generate some outputs in different modular form). We are creating all raw tables as a view. Using this view, we are creating all of this as a view. Using this views, we are creating our dimensional table called dim_genome_tags, dim_movies, dim_users.
 
 ```Step 7```
+Next, I have created fact folder under models.
 
 
