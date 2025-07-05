@@ -128,3 +128,6 @@ In short what I did till here is that I have dbt models (SQL Scripts that is wri
 
 ```Step 7```
 Next, I have created fact folder under models followed by doing incremental and ephemeral materializations. (Link: https://docs.getdbt.com/docs/build/materializations). After that, Seeds & Sources concepts are implemented. If I have a file available in my local system, & I want to directly create a table out of it without creating, uploading in S3, we can do it using DBT Seeds & Sources. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/6.+Seeds+and+Sources)
+
+```Step 8```
+After this, I tried to cover the concept of SCD (Slowly Changing Dimesions) using Snapshots because in order to configure SCD in DBT, we have to use Snapshots. __Snapshots__ are built in implementation of type 2 slowly changing dimensions. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/8.+Snapshots)
