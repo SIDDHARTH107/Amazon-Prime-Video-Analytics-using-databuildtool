@@ -127,6 +127,4 @@ In order to create all the staging for all the tables in snowflake, I worte dbt 
 In short what I did till here is that I have dbt models (SQL Scripts that is written to generate some outputs in different modular form). We are creating all raw tables as a view. Using this view, we are creating all of this as a view. Using this views, we are creating our dimensional table called dim_genome_tags, dim_movies, dim_users.
 
 ```Step 7```
-Next, I have created fact folder under models followed by doing incremental and ephemeral materializations. (Link: https://docs.getdbt.com/docs/build/materializations)
-
-
+Next, I have created fact folder under models followed by doing incremental and ephemeral materializations. (Link: https://docs.getdbt.com/docs/build/materializations). After that, Seeds & Sources concepts are implemented. If I have a file available in my local system, & I want to directly create a table out of it without creating, uploading in S3, we can do it using DBT Seeds & Sources. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/6.+Seeds+and+Sources)
