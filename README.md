@@ -138,3 +138,29 @@ In order to create a documentation in DBT, we have to define all the information
 
 ![image](https://github.com/user-attachments/assets/f93568a9-1f45-4348-8d2a-5c6837f28d93)
 
+```Step 10```
+After doing all the required transformations, type ```dbt docs generate``` and then ```dbt docs serve``` in terminal. This will basically start a web server in our local pc.
+
+![image](https://github.com/user-attachments/assets/d1f1554e-47d1-43ad-b3f0-d16cb45c2c03)
+
+![image](https://github.com/user-attachments/assets/168c3f15-55bf-4327-b1b8-1a3b9c875bba)
+
+![image](https://github.com/user-attachments/assets/5006e436-5de7-4d86-9f7b-18cf8027e8df)
+
+![image](https://github.com/user-attachments/assets/d72e288f-485a-4c34-be11-3a8aed2e0e87)
+
+![image](https://github.com/user-attachments/assets/7ac5b218-2943-4078-b8e9-b54a8f467a2d)
+
+The above screenshots is helpful for new engineers or professionals who wants to explore or wants to know/understand how the entire data ecosystem or internal infrastructure is structured on a DBT level. Because of this, they can get the full information of what's going on in the data system. It also creates a lineage graph for us as well like this:
+
+![image](https://github.com/user-attachments/assets/15346657-8f8b-4f43-9588-5f48d223428b)
+
+__Lineage Graph__ gives us the complete information about how our models and tables are structured internally. What is dependent on what and what do we get at the end of it in just one single page. This lineage graph is one of the most powerful feature of __DBT__ because we are getting almost everything by typing only 2 unix commands in the terminal.
+
+
+
+
+
+
+
+
