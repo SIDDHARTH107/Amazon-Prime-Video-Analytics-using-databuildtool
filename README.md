@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
 
 **Problem:**
@@ -164,16 +163,6 @@ Last thing I have done is the final analysis. Analysis is basically the final ve
 
 ![image](https://github.com/user-attachments/assets/67ed1b0b-17a3-454d-b7e7-fd66530804c9)
 
-
-
-
-
-
-
-
-
-=======
-Welcome to your new dbt project!
 
 ### Using the starter project
 
