@@ -157,6 +157,9 @@ The above screenshots is helpful for new engineers or professionals who wants to
 
 __Lineage Graph__ gives us the complete information about how our models and tables are structured internally. What is dependent on what and what do we get at the end of it in just one single page. This lineage graph is one of the most powerful feature of __DBT__ because we are getting almost everything by typing only 2 unix commands in the terminal.
 
+```Step 11```
+Last thing I have done is the final analysis. Analysis is basically the final version of analytics that I want to create any BI Report, visualization. These are useful for Ad-hoc analysis, EDA, testing complex queries, or generatng reports. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/13.+Analysis)
+
 
 
 
