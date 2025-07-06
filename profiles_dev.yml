@@ -1,0 +1,13 @@
+my_project1:
+  outputs:
+    dev:
+      account: VWCPIGD-FT93712
+      database: AMAZON_PRIME
+      password: Sonu#9861364100
+      role: TRANSFORM
+      schema: DEV
+      threads: 1
+      type: snowflake
+      user: sid2010
+      warehouse: COMPUTE_WH
+  target: dev

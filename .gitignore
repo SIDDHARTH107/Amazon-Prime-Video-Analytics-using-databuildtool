@@ -1,0 +1,19 @@
+# dbt build artifacts
+dbt_packages/
+target/
+dbt_modules/
+
+# Python virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dbt_env_311/
+
+# IDE and system files
+.vscode/
+.DS_Store
+
+# Secrets (don’t push my profiles.yml)
+*.yml
+!dbt_project.yml
