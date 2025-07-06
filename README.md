@@ -44,7 +44,7 @@ https://files.grouplens.org/datasets/movielens/ml-20m-README.html
 - Amazon S3 Bucket
 - DBT (Data Build Tool)
 - Visual Studio Code
-- - GitHub Copilot
+- GitHub Copilot
 
 ## Project workflow
 ```Step 1```
