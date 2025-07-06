@@ -136,3 +136,6 @@ After this, I tried to cover the concept of SCD (Slowly Changing Dimesions) usin
 
 ```Step 9```
 In order to create a documentation in DBT, we have to define all the information about the things that are available. We need to add a testing information also. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/9.+Testing)
+
+![image](https://github.com/user-attachments/assets/f93568a9-1f45-4348-8d2a-5c6837f28d93)
+
