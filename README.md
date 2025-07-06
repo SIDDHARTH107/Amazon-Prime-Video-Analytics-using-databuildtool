@@ -1,4 +1,4 @@
-# Amazon-Prime-Data-Analytics-using-databuildtool (from dbt labs)
+# Amazon-Prime-Video-Analytics-using-databuildtool (from dbt labs)
 
 **Problem:**
 
