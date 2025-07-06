@@ -131,3 +131,6 @@ Next, I have created fact folder under models followed by doing incremental and 
 
 ```Step 8```
 After this, I tried to cover the concept of SCD (Slowly Changing Dimesions) using Snapshots because in order to configure SCD in DBT, we have to use Snapshots. __Snapshots__ are built in implementation of type 2 slowly changing dimensions. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/8.+Snapshots)
+
+![image](https://github.com/user-attachments/assets/a8d7be63-effc-4946-8bb9-c91580797f8c)
+
