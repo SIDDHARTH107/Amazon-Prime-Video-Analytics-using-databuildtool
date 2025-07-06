@@ -44,6 +44,7 @@ https://files.grouplens.org/datasets/movielens/ml-20m-README.html
 - Amazon S3 Bucket
 - DBT (Data Build Tool)
 - Visual Studio Code
+- - GitHub Copilot
 
 ## Project workflow
 ```Step 1```
@@ -159,6 +160,9 @@ __Lineage Graph__ gives us the complete information about how our models and tab
 
 ```Step 11```
 Last thing I have done is the final analysis. Analysis is basically the final version of analytics that I want to create any BI Report, visualization. These are useful for Ad-hoc analysis, EDA, testing complex queries, or generatng reports. (Link: https://publish.obsidian.md/datavidhya/Course+Notes/Dbt(databuildtool)/13.+Analysis)
+
+![image](https://github.com/user-attachments/assets/67ed1b0b-17a3-454d-b7e7-fd66530804c9)
+
 
 
 
